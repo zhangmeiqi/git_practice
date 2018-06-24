@@ -12,4 +12,8 @@
 
 git_another 添加
 
-auther_commit
+
+aether_commit
+
+another_commit
+
